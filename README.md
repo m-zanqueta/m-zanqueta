@@ -1,4 +1,4 @@
-# Bem vindo! Me chamo Matheus Zanqueta!
+# print("Matheus Zanqueta")
 
 <spam style="display: inline_block"><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m-zanqueta&theme=midnight-purple&show_icons=true">
