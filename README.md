@@ -1,5 +1,9 @@
 # Matheus Zanqueta
 
+<p>
+  Olá, rede! Me chamo Matheus Zanqueta, e estando em contato com a tecnologia da informação com desenvolvimento e análise de hardwares me identifiquei com essa vasta área de conhecimento onde encontrei minha paixão. Devido a isso, cursei a ETEC Professor Basilides de Godoy, me formando como Técnico em Desenvolvimento de Sistemas 2024, atuando como líder do TCC e analista de desenvolvimento mobile do projeto apresentado. Atualmente, busco aperfeiçoar meus estudos na área e ampliar a minha gama de conhecimentos, por isso estou cursando Análise e Desenvolvimento de Sistemas no IFSP. Assim, meu perfil é um reflexo da minha trajetória e busco retratar o meu desenvolvimento profissional por aqui!
+</p>
+
 <spam style="display: inline_block"><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m-zanqueta&theme=midnight-purple&show_icons=true">
   <img width="40"></img>
